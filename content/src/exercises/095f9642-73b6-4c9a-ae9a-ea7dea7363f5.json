@@ -2,6 +2,17 @@
   "en": {
     "id": "095f9642-73b6-4c9a-ae9a-ea7dea7363f5",
     "name": "You body, your home",
+    "introPortal": {
+      "type": "video",
+      "content": {
+        "videoLoop": {
+          "source": "https://res.cloudinary.com/twentyninek/video/upload/v1663143395/temp/portal-intro_h7qccz.mp4"
+        },
+        "videoEnd": {
+          "source": "https://res.cloudinary.com/twentyninek/video/upload/v1663147750/temp/portal-intro-end_crzjih.mp4"
+        }
+      }
+    },
     "slides": [
       {
         "type": "participantSpotlight"
